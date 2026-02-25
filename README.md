@@ -129,3 +129,7 @@ KPI Design
 Business Intelligence Reporting
 
 Insight Generation
+
+
+Screenshot of the Project 
+image - https://github.com/madhavpandeyy21/HR-Analytics-Dashboard-/blob/main/HR%20Analytics%20Dashboard%20.png
