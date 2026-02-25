@@ -1,4 +1,5 @@
 📊 HR Analytics Dashboard – Power BI
+
 📌 Project Overview
 
 This project focuses on building an interactive HR Analytics Dashboard using Power BI to analyze employee attrition, salary structure, workforce distribution, and resignation trends.
@@ -61,6 +62,7 @@ Data Modeling
 Interactive Filters & Slicers
 
 📊 Dashboard Pages
+
 1️⃣ HR Overview
 
 Total Employees KPI
